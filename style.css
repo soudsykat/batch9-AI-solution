@@ -6,6 +6,9 @@
     margin: 0;
     padding: 0;
 }
+.solid-color{
+z-index: -1;
+}
 
 body {
     font-family: Merriweather !important;
